@@ -1,0 +1,13 @@
+name = "server-utils"
+author = "Letis"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "577f084cbb21a516045ebd611b58399f8d95f249de4fde6b25127cd7b2c61d57"
+
+[versions]
+minecraft = "1.21.4"
+quilt = "0.28.1-beta.1"

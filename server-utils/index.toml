@@ -1,0 +1,41 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "7d73e88045e39585ed44133072365404a37229e66f3f0e7995b6e722f22894f3"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "f68ced147cfb20b0bce974411e42106d84557aefb10b77e31ae8ac771954edc1"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "13cd4e9e1d7a596072ce69a9bafd97e3f04bebc137d220ac062fe90968286453"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "8b8abe0b0bfbabe50f9e37c5b165535de5868459b89634db74dcdd1d83babf4d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "97697e194c4e9742501485140b71b4104b857f27bd34446816fd55e4ec486e2c"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "deef527b26cadb08631a241636add8ae9f3ee47f99dd30b8fd0b90a2195c0eb1"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "8ff792fd5c8d9225709b317b49cc741233bfa6958f27edd8a2c8da50b4ff34fd"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "8559edeaf210c9a83de3dc51b6041ce3ad27368ffb6a81fd6f39d7a9334198f2"
+metafile = true
