@@ -1,12 +1,12 @@
 name = "server-utils"
 author = "Letis"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "25febcc5b352588560948686f217514d06cfd8b8f09efbc4b9e6211345d26f5a"
+hash = "eb9471bcd4d7f7a3cd35ecc1238c2132374c6de2f03a0c50b40e6fe57cbaadb8"
 
 [versions]
 minecraft = "1.21.5"
