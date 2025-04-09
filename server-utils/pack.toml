@@ -1,6 +1,6 @@
 name = "server-utils"
 author = "Letis"
-version = "1.2.0"
+version = "1.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "eb9471bcd4d7f7a3cd35ecc1238c2132374c6de2f03a0c50b40e6fe57cbaadb8"
 
 [versions]
+fabric = "0.16.13"
 minecraft = "1.21.5"
-quilt = "0.29.0-beta.3"
